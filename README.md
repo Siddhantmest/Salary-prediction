@@ -1,8 +1,8 @@
 # Salary Prediction
 
-Kaggle has hosted an open data scientist competition in 2018 titled “2018 Kaggle ML & DS Survey Challenge.” The purpose of this challenge was to “tell a data story about a subset of the data science community represented in this survey, through a combination of both narrative text and data exploration.”
+Kaggle has hosted an open data scientist competition in 2018 titled 2018 Kaggle ML & DS Survey Challenge. The purpose of this challenge was to tell a data story about a subset of the data science community represented in this survey, through a combination of both narrative text and data exploration.
 
-The dataset provided (mutiplechoiceResponses.csv) contains the survey results provided by Kaggle. The survey results from 23860 participants are shown in 395 columns, representing survey questions. Not all questions are answered by each participant, and responses contain various data types
+The dataset provided [mutiplechoiceResponses.csv](https://drive.google.com/file/d/10ftB1z9uFXL8WzrCUMkXV7BiBuPXjfTM/view?usp=sharing) contains the survey results provided by Kaggle. The survey results from 23860 participants are shown in 395 columns, representing survey questions. Not all questions are answered by each participant, and responses contain various data types
 
   ## Steps followed
     1. Import required libraries and create a dataframe of the CSV file
